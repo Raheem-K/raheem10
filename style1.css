@@ -1,0 +1,74 @@
+body{
+
+}
+.nav{
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%,#a50044 38%,#a50044 46%, rgba(8,0,57,1) 74%,#a50044 100%, rgba(0,212,255,1) 100%);
+  color: rgb(249, 227, 32);
+}
+
+h2{
+  float: left;
+  padding-left: 20px;
+
+  padding-top: 10px;
+}
+h3{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Dosis';
+
+}
+.box{
+  border-bottom:8px solid #edbb00;
+
+}
+.cor{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.logo{
+  width: 90px;
+  height: 105px;
+  float: left;
+}
+.align{
+  text-align: left; 
+}
+.heading{
+  background: rgb(133,21,57);
+  background: linear-gradient(90deg, rgba(133,21,57,1) 15%, rgba(8,0,57,1) 100%, rgba(0,212,255,1) 100%);
+  color: white;
+  margin-top: 10px;
+}
+.pad{
+  padding-top: 55px;
+  padding-left: 0px;
+  padding-right: 0px;
+  font-family: 'Dosis';
+  font-weight: bold;
+}
+p{
+  font-family: 'ubuntu';
+  padding: 10px;
+  
+}
+
+.size{
+  width: 280px;
+  height: 200px;
+  padding-bottom: 10px;
+}
+.size2{
+  width: 500px;
+  height:470px;
+}
+.Csize{
+  width: 300px;
+  height: 270px;
+}
+.center{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
